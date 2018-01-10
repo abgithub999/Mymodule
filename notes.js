@@ -18,5 +18,5 @@ var getAll = () =>{
 };
 
 module.exports = {
- addNote,
+ addNote,removeNote,deleteNote,listNote
 };
